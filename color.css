@@ -1,0 +1,12 @@
+.item {
+    margin: 1rem;
+    width: 100px;
+    height: 100px;
+    background: gray;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.active {
+    background: olive;
+}
